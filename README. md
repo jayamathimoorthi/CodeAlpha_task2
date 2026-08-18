@@ -1,42 +1,49 @@
 Exploratory Data Analysis
 
 Project Overview
-This project is completed as part of the CodeAlpha Data Analytics Internship.
-The objective is to perform Exploratory Data Analysis (EDA) on the dataset collected during Task 1.
+
+     This project is completed as part of the CodeAlpha
+     Data Analytics Internship.The objective is to perform 
+     Exploratory Data Analysis (EDA) on the dataset collected during Task 1.
 
 Objective
-1. Understand the structure of the dataset.
-2. Check for missing values.
-3. Identify duplicate records.
-4. Clean and prepare the dataset.
-5. Analyze the dataset using statistical methods.
-6. Identify useful patterns and insights.
+
+     1.Understand the structure of the dataset.
+     2.Check for missing values.
+     3.Identify duplicate records.
+     4.Clean and prepare the dataset.
+     5.Analyze the dataset using statistical methods.
+     6.Identify useful patterns and insights.
 
 Technologies Used
-1. Python
-2. Pandas
-3. NumPy
-4. Matplotlib
-5. Google Colab
+
+     1.Python
+     2.Pandas
+     3.NumPy
+     4.Matplotlib
+     5.Google Colab
 
 Dataset
-The dataset contains book-related information collected through web scraping.
-1. Book Title
-2. Price
-3. Rating
-4. Availability
+ 
+     The dataset contains book-related information
+     collected through web scraping.
+     1.Book Title
+     2.Price
+     3.Rating
+     4.Availability
 
 Data Cleaning
-1. Checked for missing values.
-2. Checked for duplicate records.
-3. Handled data inconsistencies.
-4. Prepared the cleaned dataset for analysis.
+
+     1.Checked for missing values.
+     2.Checked for duplicate records.
+     3.Handled data inconsistencies.
+     4.Prepared the cleaned dataset for analysis.
 
 Exploratory Data Analysis
-1. Examined the structure of the dataset.
-2. Performed statistical analysis.
-3. Identified patterns and trends.
-4. Generated useful insights from the dataset.
+     1.Examined the structure of the dataset.
+     2.Performed statistical analysis.
+     3.Identified patterns and trends.
+     4.Generated useful insights from the dataset.
 
 Output
 The cleaned dataset was saved as "cleaned_books_data.csv".
